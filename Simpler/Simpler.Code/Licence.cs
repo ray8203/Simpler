@@ -9,6 +9,7 @@ using System.Web;
 
 namespace Simpler.Code
 {
+
     public sealed class Licence
     {
         public static bool IsLicence(string key)
